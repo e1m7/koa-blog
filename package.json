@@ -1,0 +1,24 @@
+{
+  "name": "koa-app5-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-body": "^4.2.0",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^10.1.1",
+    "koa-views": "^8.0.0",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "render": "^0.1.4",
+    "router": "^1.3.6",
+    "swig": "^1.4.2"
+  }
+}
